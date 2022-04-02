@@ -3,6 +3,9 @@ main:
   - title: "研究概要"
     url: /research/
     
+  - title: "経歴"
+    url: /profile/
+    
   - title: "論文"
     url: /publications/
 
@@ -12,8 +15,8 @@ main:
   - title: "総説・解説等"
     url: /reviews/
     
-  - title: "過去情報"
-    url: /old/
+  - title: "研究指導"
+    url: /guidance/
 
   - title: "その他"
     url: /other/
