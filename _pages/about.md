@@ -13,9 +13,7 @@ redirect_from:
 
 English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
-# 研究室News
-
-- 【学生】令和3年度修了・卒業式が行われ、本研究室から学部生4名、修士課程2名、博士後期課程1名が卒業されました。ご卒業された皆様おめでとうございます! [2022/3/25]
+# News
 
 - 【研究】大きな構造変化サンプリングが可能な新しい疎視化分子シミュレーション手法を開発しました. [*Journal of Chemical Theory and Computation*](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01074)誌に掲載されました. [2022/3/25] <br>
 <img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/toc_jctc2022.jpeg?raw=true" width="200"> 
@@ -27,13 +25,9 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 - 【学生の活躍・研究】生命情報研究室4名(伊藤朱里(M2), 武富啓(D3), 柴橋佑希特任助手, 佐藤朋広特任准教授)が第49回構造活性相関シンポジウムにて SAR Award ポスター賞を受賞しました！ ([プレスリリース](http://www.tsurumi.yokohama-cu.ac.jp/news/20220114_ito_taketomi_shibahashi_sato.html)) [2022/1] <br>
 <img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/qsar2021_4.jpg?raw=true" width="200"> 
 
-- 【研究】機械学習を用いてタンパク質立体構造を評価する構造生物学AI技術を構築しました。[*Scientific Reports*](https://www.nature.com/articles/s41598-021-02948-y)誌に掲載されました。([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/202112ikeguchi_scirep.html)) [2022/12]
-
-- 【学生の活躍・研究】中居雪菜(B4)、伊藤朱里(M2)、柴橋佑希特任助手が情報計算科学生物(CBI)学会2021年大会でポスター賞を受賞しました! ([プレスリリース](http://www.tsurumi.yokohama-cu.ac.jp/news/20211126_ito_nakai_shibahashi.html)) [2022/11]
-
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
 
-# 研究室概要
+# 研究概要
 - [横浜市立大学](https://www.yokohama-cu.ac.jp) [生命医科学研究科](http://www.tsurumi.yokohama-cu.ac.jp/index.html)/[理学部](https://www.yokohama-cu.ac.jp/academics/science/index.html) 生命情報科学研究室では、計算機を用いて、物理化学的分子シミュレーションとバイオインフォマティクスを融合し、タンパク質や核酸 (DNA・RNA) などの生体高分子の立体構造と機能についての理論的研究をしています。また、機械学習や画像処理等の情報科学手法を用いて、創薬・構造生物学を推進する研究、および広く生物・生命現象を解析する研究を行っています。
 
   - 研究概要は[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/research/)。研究室へのアクセスは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/access/)。
@@ -44,17 +38,11 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 
 
-
 # 主な参画研究プロジェクト(詳細は[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/projects/))
-
-- [創薬等先端技術支援基盤プラットフォーム](https://www.binds.jp)(AMED BINDS)
-
-- [発動分子科学：エネルギー変換が拓く自律的機能の設計](http://www.molecular-engine.bio.titech.ac.jp)(新学術領域 発動分子)
 
 - [産学連携による次世代創薬AI開発](https://www.amed.go.jp/program/list/11/02/001_02-04.html)(AMED DAIIA)
 
 - [プレシジョンメディスンを加速する創薬ビッグデータ統合システムの推進](https://mddpm.riken.jp)(「富岳」成果創出加速プログラム)
-  - [動的構造機能解析](https://mddpm.riken.jp/research/1_bunshibyotai.html)
   - [AI・シミュレーション融合](https://mddpm.riken.jp/research/4_AIDATA.html)
 
 - 堆積物中の時空間的環境動態評価基盤の構築 (JSPS国際共同研究加速B)
@@ -63,4 +51,4 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 #  Contact
 
-  - 共同研究や講演等のご依頼・ご相談は[池口](https://ycu-iil.github.io/cls-lab.jp.github.io/members/)あるいは寺山(terayama/at/yokohama-cu.ac.jp)までご連絡ください。
+  - 共同研究や講演等のご依頼・ご相談は寺山(terayama/at/yokohama-cu.ac.jp)までご連絡ください。
