@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "メンバー"
-    url: /members/    
-
   - title: "研究概要"
     url: /research/
     
@@ -21,3 +18,5 @@ main:
   - title: "過去情報"
     url: /old/
 
+  - title: "その他"
+    url: /other/
