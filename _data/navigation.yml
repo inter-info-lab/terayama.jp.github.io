@@ -3,17 +3,14 @@ main:
   - title: "研究概要"
     url: /research/
     
-  - title: "プロジェクト"
-    url: /projects/
-    
   - title: "論文"
     url: /publications/
 
-  - title: "口頭発表等"
+  - title: "講演等"
     url: /talks/
 
-  - title: "アクセス"
-    url: /access/
+  - title: "総説・解説等"
+    url: /reviews/
     
   - title: "過去情報"
     url: /old/
